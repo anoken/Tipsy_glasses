@@ -13,7 +13,7 @@ Arduino 1.8.12
 
 ## Device
 Wio Terminal
-https://www.switch-science.com/catalog/6360/
+https://www.seeedstudio.com/Wio-Terminal-p-4509.html
 
 ## Library
 LovyanGFX https://github.com/lovyan03/LovyanGFX
