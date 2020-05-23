@@ -18,5 +18,7 @@ https://www.seeedstudio.com/Wio-Terminal-p-4509.html
 
 ## Library
 
-LovyanGFX https://github.com/lovyan03/LovyanGFX
+LovyanGFX
+
+https://github.com/lovyan03/LovyanGFX
 
